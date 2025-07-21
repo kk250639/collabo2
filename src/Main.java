@@ -17,6 +17,7 @@ public class Main {
 
         System.out.println("팀장이 작성한 코드2");
 
+        System.out.println("팀장이 작성한 코드3");
         //
         System.out.println("팀원 ㅇㅇㅇ");
     }
