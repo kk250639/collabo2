@@ -14,5 +14,7 @@ public class Main {
         // 직접 수정
         System.out.println("팀원이 작성한 코드");
         System.out.println("팀장이 작성한 코드1");
+
+        System.out.println("팀장이 작성한 코드2");
     }
 }
