@@ -13,5 +13,13 @@ public class Main {
         }
         // 직접 수정
         System.out.println("팀원이 작성한 코드");
+
+        // 수정
+        System.out.println("ㅁㅁㅁㅁㅁ");
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("i = " + i);
+        }
+        System.out.println("end");
+
     }
 }
